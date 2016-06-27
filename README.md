@@ -1,1 +1,0 @@
-# DroiBaaS-APT-Android

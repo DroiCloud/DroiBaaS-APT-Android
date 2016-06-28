@@ -4,6 +4,6 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.droi.baas</groupId>
   <artifactId>droi-baas-android-apt</artifactId>
-  <version>0.5.2626</version>
+  <version>0.5.2629</version>
   <description>POM was created from install:install-file</description>
 </project>

@@ -3,10 +3,10 @@
   <groupId>com.droi.sdk</groupId>
   <artifactId>annotationprocessor</artifactId>
   <versioning>
-    <release>0.5.2780</release>
+    <release>0.5.2781</release>
     <versions>
-      <version>0.5.2780</version>
+      <version>0.5.2781</version>
     </versions>
-    <lastUpdated>20160706102443</lastUpdated>
+    <lastUpdated>20160706103003</lastUpdated>
   </versioning>
 </metadata>
